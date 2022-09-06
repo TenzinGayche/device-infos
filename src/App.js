@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import DeviceDetector from "device-detector-js";
 function App() {
